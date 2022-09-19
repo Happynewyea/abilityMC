@@ -1,0 +1,1 @@
+give @s red_dye{Enchantments:[{}],display:{Name:""},Tags:[Vamp]}

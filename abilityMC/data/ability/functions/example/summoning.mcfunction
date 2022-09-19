@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=vine] at @s run summon falling_block ~ ~ ~ {BlockState:{Name:"minecraft:green_concrete"},NoGravity:1b,DropItem:0b,Time:400,Tags:[vine]}
